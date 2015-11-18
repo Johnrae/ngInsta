@@ -1,5 +1,2 @@
-import $ from 'jquery';
-import _ from 'underscore';
-import moment from 'moment';
-
-console.log('Hello, World');
+import angular from 'angular';
+import 'angular-ui-router';
