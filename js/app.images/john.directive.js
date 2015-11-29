@@ -12,7 +12,7 @@ export default function () {
     `,
     link: function(scope, elem, attrs) {
       elem.on('dblclick', function(){
-
+       ;
       })
     },
 

@@ -4,11 +4,6 @@ let AddController = function(ImageService) {
 
   vm.addImg = addImg;
 
-  function addImg (imgObj) {
-
-    });
-  }
-
 };
 
 AddController.$inject = ['ImageService'];
